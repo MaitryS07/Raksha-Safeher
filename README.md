@@ -182,18 +182,18 @@ python app.py
 
 ## 👨‍💻 Team Members
 
-### Maitry Santoshwar – https://github.com/MaitryS07
+- Maitry Santoshwar – https://github.com/MaitryS07
 
-### Abhay Munnjewar - https://github.com/AbhayMunjewar
+- Abhay Munnjewar - https://github.com/AbhayMunjewar
 
-### Vardhan Mali - https://github.com/vardhan01mali
+- Vardhan Mali - https://github.com/vardhan01mali
 
-### Samiksha Chaudhari - https://github.com/Samii2116
+- Samiksha Chaudhari - https://github.com/Samii2116
 
 ---
 
 ## 👨‍🏫 Mentors
 
-### Ronit Chaube
+- Ronit Chaube
 
-### Om Mukharjee
+- Om Mukharjee
